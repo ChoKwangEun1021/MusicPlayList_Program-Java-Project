@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import javazoom.jl.player.MP3Player;
 
 public class MusicPlayer {
-	// ³ë·¡¸®½ºÆ®, Àç»ı(), Á¤Áö(), ÀÌÀü°î(), ´ÙÀ½°î()
+	// í”Œë ˆì´ë¦¬ìŠ¤íŠ¸, ì¬ìƒ, ì •ì§€, ì´ì „ê³¡, ë‹¤ìŒê³¡
 	private ArrayList<Music> playlist = new ArrayList<Music>();
 	private MP3Player mp3Player;
 	private int index;
